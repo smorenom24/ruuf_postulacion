@@ -40,6 +40,11 @@ De esta forma, el algoritmo explora el espacio completo de posibilidades, garant
 - **Solo para enteros:** Esta versión asume dimensiones enteras para tratar el problema como una matriz discreta.  
 - **Sin optimizaciones avanzadas:** No utiliza heurísticas ni podas más allá de las restricciones espaciales. En problemas reales de gran escala, no es práctico.
 
+## Detalles de implementación
+
+- El link a Youtube con la explicación: https://youtu.be/7b3aVAO1_Jk
+
+
 ## Ejecución
 
 ```bash
